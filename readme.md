@@ -1,4 +1,4 @@
-# Arrow Master 🏹
+# Arrow Master 🏹 
 
 **Arrow Master** is a precision-based archery game where you shoot arrows at a target. The game features a dynamic wind system, gravity effects, and a score-based mechanic based on how close the arrow lands to the target's bullseye.
 
